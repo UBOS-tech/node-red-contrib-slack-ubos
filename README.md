@@ -1,3 +1,7 @@
+# Node-RED Slack Integration with Global Credentials
+
+This  version of the [node-red-contrib-slack](https://flows.nodered.org/node/node-red-contrib-slack) palette adds the ability to retrieve Slack credentials from global settings. 
+
 # node-red-contrib-slack
 
 A <a href="http://nodered.org" target="_new">Node-RED</a> node to interact with
